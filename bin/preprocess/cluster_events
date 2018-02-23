@@ -19,7 +19,7 @@ e.g.,
 """
 
 from os import path
-from quakenet import data_pipeline as dpp
+from quakenet import data_pipeline as dpp 
 from quakenet import data_io
 import numpy as np
 import matplotlib.pyplot as plt
